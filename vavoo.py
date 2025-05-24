@@ -4,7 +4,7 @@ import re
 import os
 
 USREPG = "Franiannu"
-BRANCHEPG = ""
+BRANCHEPG = "Lotus"
 MFPLINK = "https://franiannu-lotus.hf.space"     # non mettere lo / finale al link
 MFPPSW = "5868"
 
